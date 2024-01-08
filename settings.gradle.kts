@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidTextView"
+rootProject.name = "android First project"
 include(":app")
